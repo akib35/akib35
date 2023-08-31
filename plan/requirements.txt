@@ -1,0 +1,6 @@
+website description:
+As we scroll, the design becomes modern to retro
+and there is similar to ocean background where it goes from surface to bottom of the ocean, there fore the color contrast will also become light to dark.
+
+backend:
+
